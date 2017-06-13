@@ -1,0 +1,1 @@
+https://github.com/doctrine/orm-documentation/blob/master/en/tutorials/in-ten-quick-steps.rst
